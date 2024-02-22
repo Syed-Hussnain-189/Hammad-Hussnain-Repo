@@ -1,2 +1,6 @@
 # Hammad-Hussnain-Repo
-A repository for practice purpose.
+
+Author: Syed Muhammad Hussnain Raza
+Date: February 22, 2024
+Description: In this repository, we will learn how to make a new repository, how to upload files to 
+             it from local computer and how to collabrate with others.
